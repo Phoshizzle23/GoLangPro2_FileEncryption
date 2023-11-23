@@ -1,0 +1,7 @@
+Encryption
+# Encrypts a file
+$ go run . encrypt img.png
+
+Decryption
+# Decrypts a file
+$ go run . decrypt img.png
